@@ -1,4 +1,4 @@
-package com.senjyu.courses.controller;
+package com.senjyu.gateway.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.senjyu.courses;
+package com.senjyu.gateway;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
